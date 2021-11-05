@@ -19,4 +19,13 @@ A. 128 x 128 (16%) ran. B implies probable Memory Error for 1024x1024 and 3000x3
 
 B. Memory Error for all.
 
-C. Values turned out to be same for x_i's (mostly due to uniform QUBO landscape) - could run for 16% and 30%, Memory error for 45%. 
+C. Values turned out to be same for x_i's (mostly due to uniform QUBO landscape) - could run for 16%, Memory error for 45%.
+
+Left to do : 30 % (9193)
+
+CN: 9789 , D : 16% ---> L.F : 428.14
+CN: 9436 , D : 16% ---> L.F : 696.01
+
+# Conclusion -
+
+Dense matrices not a cup of tea for QA.

@@ -13,3 +13,10 @@ C. Fixed : Size = 128x128 and C.N = 10000.
    
    
 # Results -
+
+
+A. 128 x 128 (16%) ran. B implies probable Memory Error for 1024x1024 and 3000x3000.
+
+B. Memory Error for all.
+
+C. Values turned out to be same for x_i's (mostly due to uniform QUBO landscape) - could run for 16% and 30%, Memory error for 45%. 

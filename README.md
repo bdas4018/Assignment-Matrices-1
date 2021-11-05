@@ -24,6 +24,7 @@ C. Values turned out to be same for x_i's (mostly due to uniform QUBO landscape)
 Left to do : 30 % (9193)
 
 CN: 9789 , D : 16% ---> L.F : 428.14
+
 CN: 9436 , D : 16% ---> L.F : 696.01
 
 # Conclusion -
